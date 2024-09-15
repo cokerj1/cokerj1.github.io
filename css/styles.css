@@ -1,0 +1,63 @@
+body{
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+}
+#signup{
+    text-align: center;
+}
+body > header{
+    background-color: darkslateblue;
+}
+
+body> header > h1 {
+    margin: 0px;
+    color:whitesmoke;
+}
+
+main>article{
+    width: 90%;
+    margin: auto;
+}
+
+#footer{
+    margin: 0px;
+    background-color: darkslateblue;
+    color: aliceblue;
+}
+
+#footer-container{
+    width: 95%;
+    margin: auto;
+}
+aside{
+    text-align: center;
+    list-style: none;
+}
+footer>h3{
+    margin-top: 0;
+    width: 97%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    padding: 5px;
+}
+
+a:-webkit-any-link{
+    color: aliceblue;
+}
+
+form{
+    text-align: center;
+}
+
+h4{
+    margin: 5px;
+    text-align: center;
+}
+
+.filter{
+    list-style: none;
+}
